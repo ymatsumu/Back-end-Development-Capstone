@@ -55,12 +55,7 @@ class ConcertAttending(models.Model):
 
 
 class Photo(models.Model):
-    # id
-    # pic_url
-    # event_country
-    # event_state
-    # event_city
-    # event_date
+
 
     class Meta:
         managed = False
